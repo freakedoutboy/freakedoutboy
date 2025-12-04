@@ -2,7 +2,7 @@
 $\color{#87c900}{\textsf{и сад скачи, и скачи, и скачи, и стани}}$ <br>
 $\color{#9c5400}{\textsf{погледај ми руке, мали сигнали}}$ <br>
 <p align="center">
-<img widht=100 heigh=200 img src="https://file.garden/aOWSpRjTKyHZp9BV/Untitled476_20251204152114.png">
+<img widht=50 heigh=100 img src="https://file.garden/aOWSpRjTKyHZp9BV/Untitled476_20251204152114.png">
 
   <!-- LINKS -->
 <p align="center">  <a href="https://rentry.co/crystalite">rentry</a>
