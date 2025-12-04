@@ -10,6 +10,10 @@ $\color{#9c5400}{\textsf{погледај ми руке, мали сигнали
   <!-- LINKS -->
 <p align="center">  <a href="https://archipelago.straw.page">strawpage</a>
 
+  <!-- LINKS -->
+<p align="center">  <a href="https://www.instagram.com/jainatrium/">instagram</a>
+
+
 ㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤ
 <p align="center">
