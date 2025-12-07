@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://api.visitorbadge.io/api/visitors?path=freakedoutboy&label=winks&labelColor=%2387c900&countColor=%239c5400&style=flat">
+
+
+<p align="center">
 $\color{#87c900}{\textsf{и сад скачи, и скачи, и скачи, и стани}}$ <br>
 $\color{#9c5400}{\textsf{погледај ми руке, мали сигнали}}$ <br>
 <p align="center">
