@@ -27,7 +27,4 @@ $\color{#9c5400}{\textsf{погледај ми руке, мали сигнали
 $\color{#9c5400}{\textsf{јен', два, три, мути ми се сад у глави}}$ <br>
 $\color{#87c900}{\textsf{јен', два, три, сератонин и допамин}}$ <br>
 
-<p align="left">
-<img widht=5 heigh=5 img src="https://file.garden/aOWSpRjTKyHZp9BV/Screenshot%202025-12-28%20175459.png"> btw this isn't me y'all regardless of the fact this persons pony has the same elements of my pony (including the clothing and its colours except bad colouring ^^
-
 
