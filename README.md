@@ -18,7 +18,7 @@ $\color{#9c5400}{\textsf{погледај ми руке, мали сигнали
 <p align="center">  <a href="https://jainatriu.atabook.org/">atabook</a>
 
   <!-- LINKS -->
-<p align="center">  <a href="https://www.instagram.com/jainatrium/">instagram</a>
+<p align="center">  <a href="https://guns.lol/jainatriu/">other socials</a>
 
 
 ㅤㅤㅤㅤㅤ
