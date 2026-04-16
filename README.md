@@ -6,19 +6,10 @@
 $\color{#87c900}{\textsf{и сад скачи, и скачи, и скачи, и стани}}$ <br>
 $\color{#9c5400}{\textsf{погледај ми руке, мали сигнали}}$ <br>
 <p align="center">
-<img widht=50 heigh=100 img src="https://file.garden/aOWSpRjTKyHZp9BV/Untitled476_20251204152114.png">
+<img widht=500 height=550 img src="https://file.garden/aOWSpRjTKyHZp9BV/Untitled476_20251204152114.png">
 
   <!-- LINKS -->
-<p align="center">  <a href="https://rentry.co/crystalite">rentry</a>
-
-  <!-- LINKS -->
-<p align="center">  <a href="https://archipelago.straw.page">strawpage</a>
-
-  <!-- LINKS -->
-<p align="center">  <a href="https://jainatriu.atabook.org/">atabook</a>
-
-  <!-- LINKS -->
-<p align="center">  <a href="https://guns.lol/jainatriu/">other socials</a>
+<p align="center">  <a href="https://rentry.co/crystalite">rentry</a> <a href="https://archipelago.straw.page">strawpage</a> <a href="https://jainatriu.atabook.org/">atabook</a> <a href="https://guns.lol/jainatriu/">other socials</a>
 
 
 ㅤㅤㅤㅤㅤ
