@@ -11,7 +11,8 @@ $\color{#9c5400}{\textsf{погледај ми руке, мали сигнали
   <!-- LINKS -->
 <p align="center">  <a href="https://rentry.co/crystalite">rentry</a> <a href="https://archipelago.straw.page">strawpage</a> <a href="https://jainatriu.atabook.org/">atabook</a> <a href="https://guns.lol/jainatriu/">other socials</a>
 
-
+<p align="center"> 
+<a href="https://artfight.net/~jainatriu">artfight</a>
 ㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤ
 <p align="center">
