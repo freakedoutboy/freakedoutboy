@@ -3,8 +3,8 @@
 
 
 <p align="center">
-$\color{#87c900}{\textsf{и сад скачи, и скачи, и скачи, и стани}}$ <br>
-$\color{#9c5400}{\textsf{погледај ми руке, мали сигнали}}$ <br>
+$\color{#87c900}{\textsf{гђе ли су сада они дани сви}}$ <br>
+$\color{#9c5400}{\textsf{само са сузама у очима}}$ <br>
 <p align="center">
 <img widht=500 height=550 img src="https://file.garden/aOWSpRjTKyHZp9BV/Untitled476_20251204152114.png">
 
@@ -16,7 +16,7 @@ $\color{#9c5400}{\textsf{погледај ми руке, мали сигнали
 ㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤ
 <p align="center">
-$\color{#9c5400}{\textsf{јен', два, три, мути ми се сад у глави}}$ <br>
-$\color{#87c900}{\textsf{јен', два, три, сератонин и допамин}}$ <br>
+$\color{#9c5400}{\textsf{плачем јер ниси моја једина. Суада, Суада}}$ <br>
+$\color{#87c900}{\textsf{да ли си икад мене вољела}}$ <br>
 
 
