@@ -13,8 +13,7 @@
    <p align="left">
    <sub>$\color{#b7c17a}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤдаㅤнијеㅤкривацㅤнеткоㅤтрећи}$</sub>
   
-ㅤㅤㅤㅤ<a href="https://rentry.co/crystalite">rentry</a> <a href="https://archipelago.straw.page">strawpage</a> <a href="https://jainatriu.atabook.org/">atabook</a> <a href="https://guns.lol/jainatriu/">other socials</a>
-<a href="https://artfight.net/~jainatriu">artfight</a> <img widht=500 height=550 img src="https://github.com/freakedoutboy/freakedoutboy/blob/main/assets/mikey.png"> </a>
+ㅤㅤㅤㅤ<a href="https://rentry.co/crystalite">rentry</a> <a href="https://archipelago.straw.page">strawpage</a> <a href="https://jainatriu.atabook.org/">atabook</a> <a href="https://guns.lol/jainatriu/">other socials</a> <img widht=500 height=550 img src="https://github.com/freakedoutboy/freakedoutboy/blob/main/assets/mikey.png"> </a>
 ㅤㅤㅤㅤㅤ
 ㅤㅤㅤ
 
