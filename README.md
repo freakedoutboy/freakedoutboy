@@ -17,7 +17,7 @@
 
 ㅤ
 
-$\color{#c23b00}{\textsf{award accounts I'm mentioned in:}}$ <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> <a href="https://github.com/fans-town">@fans-town</a> <a href="https://github.com/pt-medals">@pt-medals</a> <a href="https://github.com/title-town">@title-town</a> <a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a>
+$\color{#c23b00}{\textsf{award accounts I'm mentioned in:}}$ <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> <a href="https://github.com/fans-town">@fans-town</a> <a href="https://github.com/pt-medals">@pt-medals</a> <a href="https://github.com/title-town">@title-town</a> <a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a> <a href="https://github.com/pt-nominations">@pt-nominations</a>
 ㅤㅤㅤㅤㅤ
 ㅤㅤㅤ
 
