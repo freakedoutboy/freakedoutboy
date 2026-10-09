@@ -16,15 +16,15 @@
 ㅤㅤㅤㅤ<a href="https://jainatriu.neocities.org/jainatriu">neocities</a> <a href="https://archipelago.straw.page">strawpage</a> <a href="https://jainatriu.atabook.org/">atabook</a> <a href="https://guns.lol/jainatriu/">other socials</a> <img widht=500 height=550 img src="https://github.com/freakedoutboy/freakedoutboy/blob/main/assets/mikey.png"> </a> 
 
 ㅤ
-
-$\color{#c23b00}{\textsf{award accounts I'm mentioned in:}}$ <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> <a href="https://github.com/fans-town">@fans-town</a> <a href="https://github.com/pt-medals">@pt-medals</a> <a href="https://github.com/pt-medals2">@pt-medals2</a> <a href="https://github.com/title-town">@title-town</a> <a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a> 
+<details>
+    <summary>$\color{#c23b00}{\textsf{award accounts I'm mentioned in:}}$ </summary>
+<p> <p> </p></p><a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> <a href="https://github.com/fans-town">@fans-town</a> <a href="https://github.com/pt-medals">@pt-medals</a> <a href="https://github.com/pt-medals2">@pt-medals2</a> <a href="https://github.com/title-town">@title-town</a> <a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a> 
 <a href="https://github.com/pt-nominations">@pt-nominations</a> <a href="https://github.com/ponychievements">@ponychievements</a> <a href="https://github.com/pt-fashion">@pt-fashion</a>
 <a href="https://github.com/pt-contributers">@pt-contributers</a> <a href="https://github.com/charactersofpt">@charactersofpt</a> <a href="https://github.com/ponytowncosplayers">@ponytowncosplayers</a> <a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>
-<a href="https://github.com/ponytown-yumes">@ponytown-yumes</a> <a href="https://github.com/cosplaytown">@cosplaytown</a> <a href="https://github.com/pt-friendships">@pt-friendships</a> <a href="https://github.com/music-town">@music-town</a> <a href="https://github.com/PT-FANtastic-Hall">@PT-FANtastic-Hall</a>
-
+<a href="https://github.com/ponytown-yumes">@ponytown-yumes</a> <a href="https://github.com/cosplaytown">@cosplaytown</a> <a href="https://github.com/pt-friendships">@pt-friendships</a> <a href="https://github.com/music-town">@music-town</a> <a href="https://github.com/PT-FANtastic-Hall">@PT-FANtastic-Hall</a> <a href="https://github.com/pt-friendships">@pt-friendships</a> <a href="https://github.com/PT-FANtastic-Hall">@PT-FANtastic-Hall</a> <a href="https://github.com/music-town">@music-town</a>
+</details>
 ㅤ
 
-ㅤㅤㅤㅤㅤ
-<a href="https://github.com/pt-friendships">@pt-friendships</a> $\color{#c23b00}{\textsf{CUTE}}$ㅤ
+
 
 
