@@ -26,7 +26,7 @@
 ㅤ
 <details>
     <summary><sub><a </sub>${\textsf{\color{#ac600d}friends:}}$ </summary>
-    <p> <p><a href="https://github.com/shr00mtastic">@shr00mtastic</a> <a href="https://github.com/cupidzarrow69">@cupidzarrow69</a> <a href="https://github.com/angxlpraize">@angxlpraize</a> <a href="https://github.com/PHORINGZ">@PHORINGZ</a> <a href="https://github.com/freakedoutperson">@freakedoutperson</a> <a href="https://github.com/laceduppup">@laceduppup</a> <a href="https://github.com/demonbell3">@demonbell3</a> <a href="https://github.com/VOXMANIA">@VOXMANIA</a> <a href="https://github.com/cipherites">@cipherites</a> <a href="https://github.com/deepaffection">@deepaffection</a> ${\textsf{\color{#ac600d}also known as}}$ <a href="https://github.com/freakedoutperson">@freakedoutperson</a>
+    <p> <p><a href="https://github.com/shr00mtastic">@shr00mtastic</a> <a href="https://github.com/cupidzarrow69">@cupidzarrow69</a> <a href="https://github.com/angxlpraize">@angxlpraize</a> <a href="https://github.com/PHORINGZ">@PHORINGZ</a> <a href="https://github.com/laceduppup">@laceduppup</a> <a href="https://github.com/demonbell3">@demonbell3</a> <a href="https://github.com/VOXMANIA">@VOXMANIA</a> <a href="https://github.com/cipherites">@cipherites</a> <a href="https://github.com/deepaffection">@deepaffection</a> ${\textsf{\color{#ac600d}also known as}}$ <a href="https://github.com/freakedoutperson">@freakedoutperson</a>
     </details>
 
 
