@@ -17,7 +17,7 @@
 
 ㅤ
 <details>
-    <summary>$\color{#c23b00}{\textsf{award accounts I'm mentioned in:}}$ </summary>
+    <summary><sub><a </sub>${\textsf{\color{#c4670f}award \color{#c4990f} accounts \color{#b8c40f} I'm \color{#55ac17} mentioned \color{#158c29} in:}}$ </summary>
 <p> <p> </p><a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> <a href="https://github.com/fans-town">@fans-town</a> <a href="https://github.com/pt-medals">@pt-medals</a> <a href="https://github.com/pt-medals2">@pt-medals2</a> <a href="https://github.com/title-town">@title-town</a> <a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a> 
 <a href="https://github.com/pt-nominations">@pt-nominations</a> <a href="https://github.com/ponychievements">@ponychievements</a> <a href="https://github.com/pt-fashion">@pt-fashion</a>
 <a href="https://github.com/pt-contributers">@pt-contributers</a> <a href="https://github.com/charactersofpt">@charactersofpt</a> <a href="https://github.com/ponytowncosplayers">@ponytowncosplayers</a> <a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a>
