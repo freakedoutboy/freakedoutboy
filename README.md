@@ -2,16 +2,16 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=freakedoutboy&label=winks&labelColor=%2387c900&countColor=%239c5400&style=flat">
 
 <p align="left">
-  <sub>$\color{#b7c17a}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤкаоㅤмачкаㅤ ти}$</sub>
-  <sub>$\color{#b7c17a}{ㅤ...ㅤㅤㅤㅤкружишㅤокоㅤмене}$</sub>
+  <sub>$\color{#cef58e}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤкаоㅤмачкаㅤ ти}$</sub>
+  <sub>$\color{#bddd88}{ㅤ...ㅤㅤㅤㅤкружишㅤокоㅤмене}$</sub>
   <p align="left">
    <sub>$\color{#b7c17a}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤиㅤзовешㅤмојеㅤиме}$</sub>
  <p align="left">
-   <sub>$\color{#b7c17a}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤкаоㅤмачкаㅤти}$</sub>
+   <sub>$\color{#b4a66d}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤкаоㅤмачкаㅤти}$</sub>
  <p align="left">
-   <sub>$\color{#b7c17a}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤзаборавићешㅤсебеㅤ}$</sub>
+   <sub>$\color{#a67d60}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤзаборавићешㅤсебеㅤ}$</sub>
    <p align="left">
-   <sub>$\color{#b7c17a}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤиㅤскочићешㅤнаㅤменеㅤ}$</sub>
+   <sub>$\color{#9a7262}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤиㅤскочићешㅤнаㅤменеㅤ}$</sub>
   
 ㅤㅤㅤㅤ<a href="https://jainatriu.neocities.org/jainatriu">neocities</a> <a href="https://archipelago.straw.page">strawpage</a> <a href="https://jainatriu.atabook.org/">atabook</a> <a href="https://guns.lol/jainatriu/">other socials</a> <img widht=500 height=550 img src="https://github.com/freakedoutboy/freakedoutboy/blob/main/assets/mikey.png"> </a> 
 
